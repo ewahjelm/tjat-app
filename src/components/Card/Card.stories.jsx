@@ -1,10 +1,9 @@
-import { React} from 'react'
-import { Card } from '.'
+import { React } from "react";
+import { Card } from ".";
 
 export default {
-	title: 'Components/Card',
-	component: Card,
-}
+  title: "Components/Card",
+  component: Card,
+};
 
-export const Default = {
-}
+export const Default = {};
