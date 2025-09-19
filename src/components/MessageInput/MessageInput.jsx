@@ -1,8 +1,9 @@
-import React from 'react';
+import React from "react";
 
 const MessageInput = () => {
-	return(
-		<>MessageInput</>
-	);
+  return (
+	  <>MessageInput</>
+  )
+};
 
-export default MessageInput;}
+export default MessageInput;
