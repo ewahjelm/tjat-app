@@ -1,2 +1,1 @@
-export { Card } from "./components";
-export { Message } from "./components";
+export { Card, Message, Avatar, MessageInput } from './components';
