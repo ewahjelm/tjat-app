@@ -6,3 +6,4 @@ export { LoginInput } from './components/LoginInput';
 export { Button } from './components/Button';
 export { UserFeedback } from './components/UserFeedback';
 export { Header } from './components/Header';
+export { BurgerMenu } from './components/BurgerMenu';  
