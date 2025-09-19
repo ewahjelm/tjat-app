@@ -4,4 +4,5 @@ export { Avatar } from './components/Avatar';
 export { MessageInput} from './components/MessageInput';
 export { LoginInput } from './components/LoginInput';
 export { Button } from './components/Button';
-
+export { UserFeedback } from './components/UserFeedback';
+export { Header } from './components/Header';

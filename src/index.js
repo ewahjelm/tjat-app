@@ -1,1 +1,1 @@
-export { Card, Message, Avatar, MessageInput, LoginInput, Button } from './components';
+export { Card, Message, Avatar, MessageInput, LoginInput, Button, UserFeedback, Header } from './components';
