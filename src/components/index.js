@@ -7,3 +7,4 @@ export * from "./Button";
 export * from "./UserFeedback";
 export * from "./Header";
 export * from "./BurgerMenu";
+export * from "./Footer";
