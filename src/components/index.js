@@ -1,9 +1,9 @@
-export { Card } from './components/Card';
-export { Message } from './components/Message';
-export { Avatar } from './components/Avatar';
-export { MessageInput} from './components/MessageInput';
-export { LoginInput } from './components/LoginInput';
-export { Button } from './components/Button';
-export { UserFeedback } from './components/UserFeedback';
-export { Header } from './components/Header';
-export { BurgerMenu } from './components/BurgerMenu';  
+export * from "./Card";
+export * from "./Message";
+export * from "./Avatar";
+export * from "./MessageInput";
+export * from "./LoginInput";
+export * from "./Button";
+export * from "./UserFeedback";
+export * from "./Header";
+export * from "./BurgerMenu";
