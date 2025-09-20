@@ -1,11 +1,13 @@
 import './App.css'
+import Chat from './pages/Chat';
+
 
 function App() {
 
   return (
     <>
-	  TjatApp
-    </>
+  <Chat />
+	  </>
   )
 }
 
