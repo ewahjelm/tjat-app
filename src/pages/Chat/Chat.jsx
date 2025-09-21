@@ -4,7 +4,7 @@ import {
   MessageInput,
   Avatar,
   BurgerMenu,
-} from "../components";
+} from "../../components";
 
 const Chat = () => {
   return (

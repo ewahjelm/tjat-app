@@ -1,14 +1,16 @@
-import './App.css'
-import Chat from './pages/Chat';
-
+import "./App.css";
+import { Chat } from "./pages/Chat";
+import { Register } from "./pages/Register";
+import { Login } from "./pages/Login";
 
 function App() {
-
   return (
     <>
-  <Chat />
+	  <Register />
+	  <Login />
+	  <Chat />
 	  </>
-  )
+  );
 }
 
-export default App
+export default App;
