@@ -1,7 +1,7 @@
-import { Register } from '.';
+import { Register } from ".";
 
 export default {
-	title: 'Pages/Register',
-	page: Register
+  title: "Pages/Register",
+  component: Register,
 };
 export const Default = {};

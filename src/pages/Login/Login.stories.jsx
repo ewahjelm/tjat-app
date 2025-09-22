@@ -1,6 +1,6 @@
-import { Login } from '.';
+import { Login } from ".";
 export default {
-	title: Pages/Login,
-	page: Login,
-	};
+  title: "Pages/Login",
+  component: Login,
+};
 export const Default = {};

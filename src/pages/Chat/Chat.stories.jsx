@@ -1,6 +1,6 @@
-import { Chat } from '.';
+import { Chat } from ".";
 export default {
-	title: 'Pages/Chat',
-	page: Chat,
-	};
+  title: "Pages/Chat",
+  component: Chat,
+};
 export const Default = {};
