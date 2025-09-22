@@ -1,6 +1,6 @@
-const Button = ( {ButtonText = 'Klicka här'} ) => {
+const Button = ( {buttonText = 'Klicka här'} ) => {
 	return(
-	<button>{ ButtonText }</button>
+	<button>{ buttonText }</button>
 	)
 };
 
