@@ -1,13 +1,14 @@
 import React from "react";
+import styles from "./Avatar.module.css"
 
 const Avatar = ({
   src = "https://i.pravatar.cc/150?img=24",
   alt = "User avatar",
-  size = 68,
+  // size = 50,
 }) => {
   return (
-    <div style={{ width: size, height: size }}>
-      <img src={src} alt={alt} />
+    <div className = { styles.avatar } >
+      <img src={src} alt={alt} className = {styles.image}/>
     </div>
   );
 };
