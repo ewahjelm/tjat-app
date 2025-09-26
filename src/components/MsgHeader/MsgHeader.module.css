@@ -1,0 +1,18 @@
+.header {
+display: block;
+justify-content: space-between;
+}
+.incoming {
+/* padding: 8px; */
+display: flex;
+align-items: center;
+gap: 8px;
+}
+.avatar{
+    height: 24px;
+    width: 24px;
+}
+
+.incoming h3 {
+    margin: 0;
+}
