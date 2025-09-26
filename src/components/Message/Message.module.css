@@ -1,0 +1,16 @@
+.bubble {
+    margin: 10pt;
+    padding: 5pt;
+    width : 180px;
+    border: 1pt solid brown;
+    border-radius: 5pt;
+    background: lightgrey;
+}
+.incoming {
+    background-color: aliceblue;
+    margin-right: auto;
+}
+.outgoing {
+    background-color: lightgreen;
+    margin-left: auto;
+}

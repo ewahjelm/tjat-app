@@ -7,3 +7,8 @@ export default {
 }
 
 export const Default = {};
+export const WithText = { 
+	args: {
+		text : "Något, vadsomhelst"
+	}
+};
