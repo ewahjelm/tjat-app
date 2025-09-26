@@ -1,0 +1,4 @@
+.messagesContainer{
+    display: flex;
+    flex-direction: column;
+}

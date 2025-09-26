@@ -3,4 +3,4 @@ export default {
   title: "Pages/Chat",
   component: Chat,
 };
-export const Default = {};
+export const Default = () => <Chat />;
