@@ -1,7 +1,7 @@
 import { Avatar } from "..";
-import styles from "./Header.module.css";
+import styles from "./MsgHeader.module.css";
 
-const Header = ({ sender = "NN" }) => {
+const MsgHeader = ({ sender = "NN" }) => {
   return (
     <header className = {styles.header}>
         <div>
@@ -15,4 +15,4 @@ const Header = ({ sender = "NN" }) => {
     </header>
 )
 };
-export default Header;
+export default MsgHeader;

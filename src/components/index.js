@@ -5,7 +5,7 @@ export * from "./MessageInput";
 export * from "./LoginInput";
 export * from "./Button";
 export * from "./UserFeedback";
-export * from "./Header";
+export * from "./MsgHeader";
 export * from "./BurgerMenu";
 export * from "./Footer";
 export * from "./SideNav";

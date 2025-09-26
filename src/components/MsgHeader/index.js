@@ -1,1 +1,1 @@
-export { default as Header } from './MsgHeader';
+export { default as MsgHeader } from './MsgHeader';
