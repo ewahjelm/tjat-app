@@ -5,3 +5,8 @@ export default {
 	component: MsgHeader,
 	};
 export const Default = {};
+export const Incoming = {
+	args : {
+		sender: "Maria"
+	}
+ };
