@@ -1,7 +1,7 @@
-import { Header } from '.';
+import { MsgHeader } from '.';
 
 export default {
-	title: 'Components/Header',
-	component: Header,
+	title: 'Components/MsgHeader',
+	component: MsgHeader,
 	};
 export const Default = {};
