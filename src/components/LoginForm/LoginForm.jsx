@@ -1,5 +1,6 @@
 import { LoginInput } from '../LoginInput';
 import { Button } from '../Button';
+import styles from './LoginForm.module.css';
 
 const LoginForm = ({username, password}) => {
 	return (
@@ -10,7 +11,7 @@ const LoginForm = ({username, password}) => {
 		label="Användarnamn:"/>
 	<LoginInput 
 		label = "Lösenord:"/>
-	<Button />
+	<Button ButtonText = "Logga in"/>
 		</form>
 	</div>)
 };
